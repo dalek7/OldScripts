@@ -4,3 +4,4 @@
 * Pittsburgh 에서 작업한 스크립트
 
 
+<img src='gaussian_2d_1024x800.png' width=512/>
