@@ -1,0 +1,15 @@
+total 240
+drwxrwxr-x+ 1 seung 없음     0 Nov 18 19:36 .
+drwxrwxr-x+ 1 seung 없음     0 Nov 18 19:16 ..
+-rw-rw-r--+ 1 seung 없음     0 Nov 18 19:36 files.txt
+-rwxrwxr-x+ 1 seung 없음  6459 Sep  7  2012 g2d.png
+-rwxrwxr-x+ 1 seung 없음   153 Feb 15  2012 gaussian.m
+-rwxrwxr-x+ 1 seung 없음   217 Feb 28  2012 gaussian2D.m
+-rwxrwxr-x+ 1 seung 없음 55147 Sep  8  2012 gaussian_2d_1024_y.png
+-rwxrwxr-x+ 1 seung 없음 74128 Sep  7  2012 gaussian_2d_1024x800.png
+-rwxrwxr-x+ 1 seung 없음 79820 Sep 10  2012 gaussian_2d_1280_y.png
+-rwxrwxr-x+ 1 seung 없음   804 Sep  8  2012 imgCreate2D.m
+-rwxrwxr-x+ 1 seung 없음   880 Sep  8  2012 imgCreate_gaussian.asv
+-rwxrwxr-x+ 1 seung 없음  1233 Sep 11  2012 imgCreate_gaussian.m
+-rw-rw-r--+ 1 seung 없음   203 Nov 18 14:40 readme.md
+-rwxrwxr-x+ 1 seung 없음    92 Sep  7  2012 sin.png
